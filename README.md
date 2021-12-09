@@ -1,1 +1,1 @@
-# ssac_MachineLearning
+# MachineLearning 특강
